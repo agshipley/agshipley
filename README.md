@@ -34,9 +34,9 @@ Combines source ingestion, analytical agents, daily editorial synthesis, persist
 
 Designed for ongoing use, with scheduled execution, human feedback, and explicit separation between incoming evidence and evolving interpretation.
 
-### [Art Commission Intelligence](https://github.com/agshipley/first-agent) — AI applied to commercial discovery
+### [TBC Intelligence](https://github.com/agshipley/first-agent) — Client-built business development intelligence
 
-A deployed business-development intelligence system combining LLM-assisted prospect research with structured municipal building-permit data.
+A business-development intelligence system built for and used by Tre Borden /Co, combining LLM-assisted prospect research with structured municipal building-permit data.
 
 Uses deterministic opportunity scoring across Los Angeles, New York, and San Francisco to identify potential art commissioning opportunities for a creative business.
 
